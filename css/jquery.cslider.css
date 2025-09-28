@@ -1305,15 +1305,16 @@
         top:80px;
     }
     
-    .da-slide p {
+/*    .da-slide p {
         display:none;
-    }
+    }*/
     .da-slide .da-img {
         top:50px;
         width:30%;    
     }  
     .da-slide .da-link{
-        margin:0;
+        /*margin:0;*/
+		margin-top: 160px;
         font-size:12px;
         top:150px; 
     }  
@@ -1329,11 +1330,11 @@
         top: 70px;
     }
     
-    .da-slide .da-img {
+/*    .da-slide .da-img {
         display:none;
-    } 
+    }*/ 
     
-    .da-slide .da-link {
+/*    .da-slide .da-link {
         display:none;
-    } 
+    }*/ 
 }
